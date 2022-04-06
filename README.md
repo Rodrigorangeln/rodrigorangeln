@@ -1,5 +1,5 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning VueJS and Laravel.
+- 🌱 I’m currently learning VueJS.
 
